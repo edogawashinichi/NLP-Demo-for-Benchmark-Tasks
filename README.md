@@ -1,6 +1,7 @@
 # NLP-Demo-for-Benchmark-Tasks
 
-This repository contains
+This repository requires
 
-dataset :
- - GLUE
+dataset(excluded) :
+ - [GLUE](https://gluebenchmark.com/tasks)
+     - CoLA
