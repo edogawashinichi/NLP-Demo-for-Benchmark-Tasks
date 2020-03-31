@@ -4,20 +4,21 @@
 
 This repository is for NLP beginners to get started with state-of-the-art NLP models.
 
-## Start-up
+## Start-up ---- seeing is believing
 
-git clone this repository and run in *Teminal* on *Mac*/*Linux*
+git clone this repository and run in *Teminal* for *Mac*/*Linux*
 ```bash
-./***.sh
+./sh_file_name.sh
 ```
 
-for *Windows*, run python command rather than *.sh* file
+for *Windows*, run *Python* command rather than *.sh* file
 
 ## To-do
 
-so far what has been added
- - benchmark tasks demos
-   - run_myCola.sh
+so far benchmark tasks demos that has been added
+ - bert_demo
+   - run
+     - run_myCola.sh
 
 ## Requirement
 
