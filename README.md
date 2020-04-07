@@ -18,7 +18,8 @@ for *Windows*, run *Python* command rather than *.sh* file
 so far benchmark tasks demos that has been added
  - bert_demo
    - run
-     - run_myCola.sh
+     - run_myCola.sh (accuracy 0.74)
+     - run_myWnli.sh (accuracy 0.35)
 
 ## Requirement
 
@@ -26,6 +27,7 @@ so far benchmark tasks demos that has been added
  - dataset (excluded)
    - [GLUE](https://gluebenchmark.com/tasks)
       - CoLA
+      - WNLI
  - pretraining models (excluded)
    - [BERT](https://github.com/google-research/bert)
       - uncased_L-8_H-512_A-8
