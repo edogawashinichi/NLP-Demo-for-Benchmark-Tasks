@@ -15,7 +15,7 @@ for *Windows*, run *Python* command rather than *.sh* file
 
 ## To-do
 
-so far benchmark tasks demos that has been added
+so far benchmark tasks demos that have been added
  - bert_demo
    - run
      - run_myCola.sh (accuracy 0.74)
