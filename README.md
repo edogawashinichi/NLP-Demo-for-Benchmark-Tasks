@@ -2,20 +2,21 @@
 
 ## Introduction
 
-This repository is for NLP beginners to get started with state-of-the-art NLP models.
+this repository is for NLP beginners to get started with state-of-the-art NLP models and benchmark tasks.
 
-## Start-up ---- seeing is believing
+## Start-up
 
-git clone this repository and run in *Teminal* for *Mac*/*Linux*
+ seeing is believing. just do it before asking why.
+ - git clone this repository
+ - for *Mac*/*Linux*, run *.sh* file in *Teminal*
 ```bash
 ./sh_file_name.sh
 ```
-
-for *Windows*, run *Python* command rather than *.sh* file
+ - for *Windows*, run *Python* command in *.sh* file
 
 ## To-do
 
-so far benchmark tasks demos that have been added
+so far benchmark tasks demos that have been added.
  - bert_demo
    - run
      - run_myCola.sh (accuracy 0.74)
@@ -23,6 +24,7 @@ so far benchmark tasks demos that have been added
 
 ## Requirement
 
+some of the following not included due to capacity limitation.
  - Python 3
  - dataset (excluded)
    - [GLUE](https://gluebenchmark.com/tasks)
