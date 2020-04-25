@@ -1,3 +1,3 @@
 # model.ckpt.data removed
 
-due to repository capacity limit
+due to repository size restriction

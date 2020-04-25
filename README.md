@@ -21,15 +21,18 @@ so far benchmark tasks demos that have been added.
    - run
      - run_myCola.sh (accuracy 0.74)
      - run_myWnli.sh (accuracy 0.35)
+     - run_myRte.sh (accuracy 0.61)
 
 ## Requirement
 
-some of the following not included due to capacity limitation.
+some of the following not included due to repository size restriction.
  - Python 3
+ - TensorFlow 1.0
  - dataset (excluded)
    - [GLUE](https://gluebenchmark.com/tasks)
       - CoLA
       - WNLI
+      - RTE
  - pretraining models (excluded)
    - [BERT](https://github.com/google-research/bert)
       - uncased_L-8_H-512_A-8
