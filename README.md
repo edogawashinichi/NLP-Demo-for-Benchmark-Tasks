@@ -20,23 +20,14 @@ so far benchmark tasks demos that have been added.
  - bert_demo
    - run
      - run_myCola.sh
-
-| pretraining-model | accuracy |
-| :---------------- | :-------- |
-| uncased_L-8_H-512_A-8 | 0.74 |
-
      - run_myWnli.sh
-
-| pretraining-model | accuracy |
-| :---------------- | :-------- |
-| uncased_L-8_H-512_A-8 | 0.35 |
-
      - run_myRte.sh
 
-| pretraining-model | accuracy |
-| :---------------- | :-------- |
-| uncased_L-8_H-512_A-8 | 0.61 |
-
+| .sh | pretraining-model | accuracy |
+| :-- | :---------------- | :------- |
+| run_myCola.sh | uncased_L-8_H-512_A-8 | 0.74 |
+| run_myWnli.sh | uncased_L-8_H-512_A-8 | 0.35 |
+| run_myRte.sh | uncased_L-8_H-512_A-8 | 0.61 |
 
 ## Requirement
 
