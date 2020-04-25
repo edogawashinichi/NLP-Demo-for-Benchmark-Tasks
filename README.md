@@ -19,12 +19,24 @@ this repository is for NLP beginners to get started with state-of-the-art NLP mo
 so far benchmark tasks demos that have been added.
  - bert_demo
    - run
-     - run_myCola.sh 
+     - run_myCola.sh
+
 | pretraining-model | accuracy |
 | :---------------- | :-------- |
 | uncased_L-8_H-512_A-8 | 0.74 |
-     - run_myWnli.sh (accuracy 0.35)
-     - run_myRte.sh (accuracy 0.61)
+
+     - run_myWnli.sh
+
+| pretraining-model | accuracy |
+| :---------------- | :-------- |
+| uncased_L-8_H-512_A-8 | 0.35 |
+
+     - run_myRte.sh
+
+| pretraining-model | accuracy |
+| :---------------- | :-------- |
+| uncased_L-8_H-512_A-8 | 0.61 |
+
 
 ## Requirement
 
